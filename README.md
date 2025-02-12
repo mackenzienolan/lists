@@ -145,3 +145,22 @@
 - [Hashnode](https://hashnode.com/) - Developer blogging platform
 - [Product Hunt](https://www.producthunt.com/) - New product launches
 - [Hacker News](https://news.ycombinator.com/) - Tech news and discussions
+
+## Product Management
+
+### Tools
+
+- [Linear](https://linear.app/) - All-in-one product management platform
+- [Notion](https://www.notion.so/) - Product management and collaboration tool
+- [Jira](https://www.atlassian.com/software/jira) - Issue tracking and project management
+- [Trello](https://trello.com/) - Project management tool
+
+### Product Management Books
+
+- [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovating/dp/0307887898) - Eric Ries
+- [Hooked](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/0399590508) - Nir Eyal
+- [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0201349601) - Don Norman
+
+### Ideas
+
+- [bigideasdb.com](https://bigideasdb.com/) - Big ideas database
