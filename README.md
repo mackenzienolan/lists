@@ -79,6 +79,11 @@
 - [SST Examples](https://github.com/serverless-stack/sst/tree/master/examples) - Example SST projects
 - [AWS CDK Documentation](https://docs.aws.amazon.com/cdk/) - AWS CDK reference
 - [Serverless Framework](https://www.serverless.com/) - Alternative serverless framework
+- 
+
+### Security / Bots
+
+- [Bot Poison](https://botpoison.com/documentation/) - BotPoison
 
 ## Developer Tools
 
